@@ -1,7 +1,8 @@
 # robot
 Robot to clean the apartment floor. The project will show the state output while it's cleaning or charging the battery. The --floor parameter should accept either hard or carpet to determine how the robot should behave based on the following assumptions:
 
-Assumtions
+Assumptions
+
 ● The robot has a battery big enough to clean for 60 seconds in one charge. 
 
 ● The robot can clean 1 square meter of hard floor in 1 second. 
